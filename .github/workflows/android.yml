@@ -1,6 +1,6 @@
 名称：Android CI
 
-on：
+on:
   push:
     branches: [    分支：[ “ MAIN” ] “ MAIN”  ]
   pull_request:
